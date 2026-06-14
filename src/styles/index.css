@@ -17,7 +17,6 @@ body.theme-light {
 }
 
 html, body {
-  height: 100%;
   margin: 0;
   background-color: var(--body-bg);
   transition: background-color 0.3s ease;
